@@ -50,7 +50,7 @@ pred = z(stack) + 1.0·z(jft2) + 0.5·z(jv3) + 1.0·z(fv3) + 0.25·z(lora)
 
 ## Железо, ОС
 
-- Тяжёлые этапы: Kaggle, Linux, 2× NVIDIA T4 16 GB, CUDA.
+- Тяжёлые этапы: Kaggle, Linux, 2× NVIDIA T4 16 GB, CUDA + колаб
 - Бленд и анализ: macOS 26.3, Apple M4, Python 3.13.6.
 
 ## Структура ноутбука
